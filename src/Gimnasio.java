@@ -1,10 +1,10 @@
-public class Gimnacio {
+public class Gimnasio {
 
     private String codigo;
     private String nombre;
 
 
-    public Gimnacio(String codigo, String nombre) {
+    public Gimnasio(String codigo, String nombre) {
         this.codigo = codigo;
         this.nombre = nombre;
 
