@@ -36,7 +36,7 @@ public class Sala {
      */
     @Override
     public String toString() {
-        return "COD Sala:" + this.codigoSala + ":" + this.descripcion;
+        return "COD Sala: " + this.codigoSala + ": " + this.descripcion;
     }
 
 }
